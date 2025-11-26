@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antonino Puma (@NinoPuma)
+# 👋 Hi, I'm Antonino Puma
 
 🎓 **Junior Developer from Spain**  
 - 📚 **UEM – DAM (Desarrollo de aplicaciones multiplataforma)** · 2023–2025  
